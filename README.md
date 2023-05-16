@@ -5,11 +5,13 @@ The instructions for this mini project are divided into the following subsection
 
 •	To create the Category and Subcategory DataFrames (Abisola)
 
-•	To create the Campaign DataFrame
+•	To create the Campaign DataFrame (Abisola)
 
-•	To create the Contacts DataFrame
+•	To create the Contacts DataFrame (Abisola)
+    * Updated contacts dataframe - corrected reordering of columns. (Kerry-Ann)
+    * Updated contacts.csv based on reordered columns (Kerry-Ann)
 
-•	To create the Crowdfunding Database
+•	To create the Crowdfunding Database (Kerry-Ann)
 
 
 Cloud Database created using Render.com (Kerry-Ann)
