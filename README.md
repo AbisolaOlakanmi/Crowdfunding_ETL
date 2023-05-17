@@ -8,11 +8,11 @@ The instructions for this mini project are divided into the following subsection
 •	To create the Campaign DataFrame (Abisola)
 
 •	To create the Contacts DataFrame (Abisola)
-    * Updated contacts dataframe - corrected reordering of columns. (Kerry-Ann)
-    * Updated contacts.csv based on reordered columns (Kerry-Ann)
 
 •	To create the Crowdfunding Database (Kerry-Ann)
 
+
+UPDATES:
 
 Cloud Database created using Render.com (Kerry-Ann)
 
@@ -27,6 +27,20 @@ Tables created from crowdfunding_db_schema (Kerry-Ann)
 
 
 Entity Relationship Diagram & database schema created using QuickDBD (Kerry-Ann)
+
+* Updated contacts dataframe (Kerry-Ann)
+
+    - corrected reordering of columns. 
+
+    - conversion to datetime of launched_date and end_date:
+
+        + initial conversion showed the unix timestamp date (1970-01-01)
+
+        + added parameters and methods to to_datetime() function to show correct date
+
+
+* Updated contacts.csv based on reordered columns (Kerry-Ann)
+
 
 
 
