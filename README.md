@@ -16,12 +16,6 @@ UPDATES:
 
 Cloud Database created using Render.com (Kerry-Ann)
 
-•	Database name: crowdfunding_db
-
-•	Server name: project2
-
-•	Team name: kerabi
-
 
 Tables created from crowdfunding_db_schema (Kerry-Ann)
 
